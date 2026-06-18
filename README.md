@@ -1,11 +1,14 @@
 Link artigo overleaf: https://pt.overleaf.com/read/sdbsqpbrqcmm#bd77f3
+
+---
+
 Link colab: https://colab.research.google.com/drive/1NgJxlCNAwckasa2mGANvJ1HyGY5bQecd?usp=sharing
+
+---
+
 Link documento: https://docs.google.com/document/d/1xFmX4sUJVMUGJTZFGaEMXo7F_buZQ6-8AexNCdJHYAg/edit?usp=sharing
 
-
-
-
-
+---
 
 # Classificação de Tumores Cerebrais em Imagens de Ressonância Magnética Utilizando Naive Bayes
 
