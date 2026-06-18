@@ -1,3 +1,7 @@
+Link download artigo: [IEEE_Conference_Template__1_ (1).pdf](https://github.com/user-attachments/files/29073197/IEEE_Conference_Template__1_.1.pdf)
+
+---
+
 Link artigo overleaf: https://pt.overleaf.com/read/sdbsqpbrqcmm#bd77f3
 
 ---
